@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div>
         app
-        <Button>ANTD</Button>
+        <Button type="primary">ANTD</Button>
       </div>
     );
   }
